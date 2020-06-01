@@ -2,7 +2,7 @@
   <img src="https://www.multisafepay.com/img/multisafepaylogo.svg" width="400px" position="center">
 </p>
 
-# MultiSafepay's collection of icons for the various payment methods we offer 
+# MultiSafepay's collection of logos 
 Here you can find the official logos of MultiSafepay.
 
 Anything missing? Shoot us a message at at <integration@multisafepay.com>
