@@ -12,7 +12,12 @@ MultiSafepay is a collecting payment service provider which means we take care o
 
 # MultiSafepay-logos
 
-| Payment method  | @1x | @2x | @3x | SVG |
-| ------------- | ------------- | ------------ | ------------ | ------------ |
-| [Mastercard](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/creditcards/#how-it-works)  | ![image](methods/mastercard.png)  | ![image](methods/mastercard@2x.png) | ![image](methods/mastercard@3x.png) | ![image](methods/mastercard.svg) |
+![image](msp-logo-tagline-color.jpg)
 
+![image](msp-logo-tagline-color.png) 
+
+![image](msp-logo-tagline-color.svg)
+
+![image](msp-logo-tagline-white.png)
+
+![image](msp-logo-tagline-white.svg)
