@@ -12,7 +12,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 
 # MultiSafepay-logos
 
-| JPG  | PNG | SVG |
-| ------------- | ------------- | ------------|
-| ![image](msp-logo-tagline-color.jpg) | ![image](msp-logo-tagline-color.png) | ![image](msp-logo-tagline-color.svg) |
-|  | ![image](msp-logo-tagline-white.png) | ![image](msp-logo-tagline-white.svg) |
+| Style | JPG  | PNG | SVG |
+| ------------- | ------------- | ------------- | ------------|
+| Color | ![image](msp-logo-tagline-color.jpg) | ![image](msp-logo-tagline-color.png) | ![image](msp-logo-tagline-color.svg) |
+| White | | ![image](msp-logo-tagline-white.png) | ![image](msp-logo-tagline-white.svg) |
