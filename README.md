@@ -16,3 +16,5 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | ------------- | ------------- | ------------- | ------------|
 | Color | ![image](msp-logo-tagline-color.jpg) | ![image](msp-logo-tagline-color.png) | ![image](msp-logo-tagline-color.svg) |
 | White | | ![image](msp-logo-tagline-white.png) | ![image](msp-logo-tagline-white.svg) |
+
+For the complete list of the logos of all payment methods MultiSafepay offers, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-icons">GitHub icons repository</a>
